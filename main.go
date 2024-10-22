@@ -1,4 +1,5 @@
-package main
+//Project Uas algoritma pemrograman
+package main 
 
 import (
 	"bufio"
